@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>TOA</title>
+    <link>https://itstheofficialadmins.wordpress.com</link>
+    <pubDate>Fri, 25 Oct 2024 08:15:53 +0000</pubDate>
+    <language>en</language>
+    <wp:author>
+      <wp:author_login>jigarrai</wp:author_login>
+      <wp:author_email>jigarrai@outlook.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Jigar Rai]]></wp:author_display_name>
+    </wp:author>
+    <wp:category>
+      <wp:term_id>1</wp:term_id>
+      <wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+    </wp:category>
+    <item>
+      <title><![CDATA[About]]></title>
+      <link>https://itstheofficialadmins.wordpress.com/?page_id=1</link>
+      <pubDate>Fri, 05 Jul 2024 07:58:51 +0000</pubDate>
+      <dc:creator>jigarrai</dc:creator>
+      <guid isPermaLink="false">http://itstheofficialadmins.wordpress.com/?page_id=1</guid>
+      <content:encoded><![CDATA[<p>This is an example of a page.</p>]]></content:encoded>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2024-07-05 07:58:51</wp:post_date>
+      <wp:status>trash</wp:status>
+      <wp:post_type>page</wp:post_type>
+    </item>
+    <item>
+      <title><![CDATA[Coming Soon]]></title>
+      <link>https://itstheofficialadmins.wordpress.com/</link>
+      <pubDate>Fri, 05 Jul 2024 07:53:52 +0000</pubDate>
+      <dc:creator>jigarrai</dc:creator>
+      <guid isPermaLink="false">https://itstheofficialadmins.wordpress.com/home/</guid>
+      <content:encoded><![CDATA[<div><strong>Coming soon</strong></div>]]></content:encoded>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2024-07-05 07:53:52</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>page</wp:post_type>
+    </item>
+  </channel>
+</rss>
